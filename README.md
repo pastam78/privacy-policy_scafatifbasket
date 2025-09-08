@@ -8,6 +8,7 @@ L'app può raccogliere i seguenti dati:
 
 - **Indirizzo email**: usato per l'autenticazione. In alcuni casi, può trattarsi di un'email fittizia o mascherata.  
 - **Pronostici e commenti**: inseriti dall'utente e visibili agli altri utenti registrati.  
+- **Foto caricate dagli utenti**: qualsiasi foto caricata sarà visibile ad altri utenti dell'app. L’utente che decide di inserire foto lo fa **nella piena consapevolezza che queste possano essere guardate da altri utenti**.  
 - **Dati di utilizzo**: se abilitato, Google Firebase può raccogliere statistiche anonime sull'uso dell'app.  
 
 ## Uso dei Dati
@@ -15,7 +16,7 @@ L'app può raccogliere i seguenti dati:
 I dati raccolti sono utilizzati solo per:
 
 - Permettere l'accesso all'app.  
-- Mostrare i pronostici/commenti pubblicati dagli utenti.  
+- Mostrare i pronostici, commenti e foto pubblicati dagli utenti.  
 - Migliorare l'app tramite statistiche anonime.  
 
 ## Condivisione dei Dati
@@ -50,3 +51,4 @@ Se non riesci ad accedere all’app, puoi contattarci via email per richiedere l
 Per qualsiasi domanda: **ing.tammaropasquale@gmail.com**
 
 **Ultimo aggiornamento:** 05 Settembre 2025
+
